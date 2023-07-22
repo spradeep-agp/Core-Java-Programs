@@ -1,5 +1,5 @@
 package com.p4array;
-public class arr7
+public class P7Array
 {
 	public static void main(String u[])
 	{

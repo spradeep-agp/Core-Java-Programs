@@ -1,6 +1,6 @@
 package com.p4array;
 
-public class arr3
+public class P3Array
 {
 	public static void main(String r[])
 	{
